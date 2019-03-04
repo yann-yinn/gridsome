@@ -5,6 +5,7 @@
 ## Install
 - `yarn add @gridsome/transformer-remark`
 - `npm install @gridsome/transformer-remark`
+- in your `main.js` file, import a prism css theme, for example: `import 'prismjs/themes/prism.css'`
 
 ## Usage
 
